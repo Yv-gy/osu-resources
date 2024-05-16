@@ -82,6 +82,12 @@
   <data name="edit.email.title" xml:space="preserve">
     <value>Email</value>
   </data>
+  <data name="edit.email.locked._" xml:space="preserve">
+    <value>Поштаны өзгерту үшін {0}қа жазыңыз.</value>
+  </data>
+  <data name="edit.email.locked.accounts" xml:space="preserve">
+    <value>аккаунтты қолдау тобы</value>
+  </data>
   <data name="edit.legacy_api.api" xml:space="preserve">
     <value>api</value>
   </data>
@@ -177,9 +183,6 @@
   </data>
   <data name="notifications.options.push" xml:space="preserve">
     <value>push</value>
-  </data>
-  <data name="notifications.options.user_achievement_unlock" xml:space="preserve">
-    <value>жаңа медальдар</value>
   </data>
   <data name="oauth.authorized_clients" xml:space="preserve">
     <value>авторландырылған клиенттер</value>

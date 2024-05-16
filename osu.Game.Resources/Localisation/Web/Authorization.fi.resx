@@ -83,7 +83,7 @@
     <value>Keskustelua, jossa on vastauksia, ei voi poistaa</value>
   </data>
   <data name="beatmap_discussion.nominate.exhausted" xml:space="preserve">
-    <value>Olet saavuttanut suosittelurajan tälle päivälle, yritä huomenna uudelleen.</value>
+    <value>Olet saavuttanut päivän ehdollepanorajan, yritä uudelleen huomenna.</value>
   </data>
   <data name="beatmap_discussion.nominate.incorrect_state" xml:space="preserve">
     <value>Virhe toiminnon suorittamisessa, kokeile päivittää sivu.</value>
@@ -110,7 +110,7 @@
     <value>Omia keskusteluja ei voi äänestää.</value>
   </data>
   <data name="beatmap_discussion.vote.wrong_beatmapset_state" xml:space="preserve">
-    <value>Voit äänestää vain vireillä olevien beatmappien keskusteluissa.</value>
+    <value>Vain vireillä olevien rytmikarttojen keskusteluja voi äänestää.</value>
   </data>
   <data name="beatmap_discussion_post.destroy.not_owner" xml:space="preserve">
     <value>Voit poistaa vaan omia viestejä.</value>
@@ -165,6 +165,9 @@
   </data>
   <data name="comment.update.deleted" xml:space="preserve">
     <value>Poistettuja viestejä ei voi mukata.</value>
+  </data>
+  <data name="contest.judging_not_active" xml:space="preserve">
+    <value>Tuomarointi tälle kilpailulle ei ole avoinna.</value>
   </data>
   <data name="contest.voting_over" xml:space="preserve">
     <value>Et voi muuttaa ääntäsi tälle kilpailulle äänestysajan loppumisen jälkeen.</value>
@@ -279,6 +282,9 @@
   </data>
   <data name="score.pin.disabled_type" xml:space="preserve">
     <value>Ei voida kiinnittää tämäntyyppistä pisteytystä</value>
+  </data>
+  <data name="score.pin.failed" xml:space="preserve">
+    <value>Ei läpäistyä suoritusta ei voida kiinnittää.</value>
   </data>
   <data name="score.pin.not_owner" xml:space="preserve">
     <value>Vain tuloksen omistaja voi kiinnittää tuloksen.</value>

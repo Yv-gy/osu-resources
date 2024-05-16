@@ -82,13 +82,16 @@
   <data name="status.non_best" xml:space="preserve">
     <value>Only personal best scores award pp</value>
   </data>
-  <data name="status.non_passing" xml:space="preserve">
-    <value>Only passing scores award pp</value>
+  <data name="status.no_pp" xml:space="preserve">
+    <value>pp is not awarded for this score</value>
   </data>
   <data name="status.no_pp" xml:space="preserve">
     <value>pp is not awarded for this score</value>
   </data>
   <data name="status.processing" xml:space="preserve">
     <value>This score is still being calculated and will be displayed soon</value>
+  </data>
+  <data name="status.no_rank" xml:space="preserve">
+    <value>This score has no rank as it is unranked or marked for deletion</value>
   </data>
 </root>

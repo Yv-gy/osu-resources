@@ -92,7 +92,7 @@
     <value>Yritä uudelleen (pidä painettuna)</value>
   </data>
   <data name="take_screenshot" xml:space="preserve">
-    <value>Ota kuvankaappaus</value>
+    <value>Ota kuvakaappaus</value>
   </data>
   <data name="toggle_gameplay_mouse_buttons" xml:space="preserve">
     <value>Ota käyttöön / poista käytöstä hiirinäppäimet pelissä</value>
@@ -146,7 +146,7 @@
     <value>Näytä / piilota profiili</value>
   </data>
   <data name="pause_gameplay" xml:space="preserve">
-    <value>Keskeytä / jatka peliä</value>
+    <value>Tauota / jatka pelaamista</value>
   </data>
   <data name="editor_setup_mode" xml:space="preserve">
     <value>Asetustila</value>
@@ -191,7 +191,7 @@
     <value>Näytä / piilota muunnelmavalikko</value>
   </data>
   <data name="deselect_all_mods" xml:space="preserve">
-    <value>Poista kaikkien muunnelmien valinnat</value>
+    <value>Peru kaikkien muunnelmien valinnat</value>
   </data>
   <data name="select_next_random" xml:space="preserve">
     <value>Satunnainen</value>

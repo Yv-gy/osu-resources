@@ -97,6 +97,9 @@
   <data name="edit.profile.title" xml:space="preserve">
     <value>Profil</value>
   </data>
+  <data name="edit.profile.country_change.update_link" xml:space="preserve">
+    <value>Promjeni na {0}</value>
+  </data>
   <data name="edit.profile.user.user_from" xml:space="preserve">
     <value>trenutna lokacija</value>
   </data>
@@ -114,6 +117,12 @@
   </data>
   <data name="edit.signature.update" xml:space="preserve">
     <value>ažuriraj</value>
+  </data>
+  <data name="github_user.title" xml:space="preserve">
+    <value>GitHub</value>
+  </data>
+  <data name="github_user.error.already_linked" xml:space="preserve">
+    <value>Ovaj GitHub nalog je vec povezan drugom korisniku.</value>
   </data>
   <data name="notifications.beatmapset_discussion_qualified_problem" xml:space="preserve">
     <value>primaj obavijesti o novim problemima na kvalificiranim beatmapovima sljedećih modova</value>
@@ -156,9 +165,6 @@
   </data>
   <data name="notifications.options.push" xml:space="preserve">
     <value>push</value>
-  </data>
-  <data name="notifications.options.user_achievement_unlock" xml:space="preserve">
-    <value>otključanje korisničke medalje</value>
   </data>
   <data name="oauth.authorized_clients" xml:space="preserve">
     <value>odobreni klijenti</value>

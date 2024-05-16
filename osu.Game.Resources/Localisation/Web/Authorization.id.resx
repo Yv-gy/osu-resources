@@ -65,7 +65,7 @@
     <value>Silakan masuk untuk melanjutkan.</value>
   </data>
   <data name="require_verification" xml:space="preserve">
-    <value>Silakan verifikasi untuk melanjutkan.</value>
+    <value>Silakan verifikasi akunmu untuk melanjutkan.</value>
   </data>
   <data name="restricted" xml:space="preserve">
     <value>Tidak dapat melakukan hal itu saat dibatasi.</value>
@@ -98,7 +98,7 @@
     <value>Hanya pemilik topik dan beatmap yang dapat menyelesaikan diskusi.</value>
   </data>
   <data name="beatmap_discussion.store.mapper_note_wrong_user" xml:space="preserve">
-    <value>Hanya pembuat beatmap atau anggota BN/NAT yang dapat membubuhkan catatan pada laman diskusi beatmap.</value>
+    <value>Hanya pembuat beatmap atau anggota BN/NAT yang dapat membubuhkan catatan pada halaman diskusi beatmap.</value>
   </data>
   <data name="beatmap_discussion.vote.bot" xml:space="preserve">
     <value>Tidak dapat memberikan suara pada topik diskusi yang dibuka oleh bot</value>
@@ -113,16 +113,16 @@
     <value>Hanya dapat memberikan suara pada diskusi di beatmap pending.</value>
   </data>
   <data name="beatmap_discussion_post.destroy.not_owner" xml:space="preserve">
-    <value>Kamu hanya dapat menghapus postingan milik diri sendiri.</value>
+    <value>Kamu hanya dapat menghapus postingan milikmu sendiri.</value>
   </data>
   <data name="beatmap_discussion_post.destroy.resolved" xml:space="preserve">
     <value>Kamu tidak dapat menghapus postingan pada topik diskusi yang telah terjawab.</value>
   </data>
   <data name="beatmap_discussion_post.destroy.system_generated" xml:space="preserve">
-    <value>Postingan yang dibuat otomatis tidak dapat dihapus.</value>
+    <value>Postingan yang dihasilkan secara otomatis tidak dapat dihapus.</value>
   </data>
   <data name="beatmap_discussion_post.edit.not_owner" xml:space="preserve">
-    <value>Hanya pemilik topik yang diperbolehkan untuk menyunting kiriman.</value>
+    <value>Postingan ini hanya dapat disunting oleh pengirimnya.</value>
   </data>
   <data name="beatmap_discussion_post.edit.resolved" xml:space="preserve">
     <value>Kamu tidak dapat menyunting postingan pada topik diskusi yang telah terjawab.</value>
@@ -134,7 +134,7 @@
     <value>Diskusi pada beatmap ini telah dikunci.</value>
   </data>
   <data name="beatmapset.metadata.nominated" xml:space="preserve">
-    <value>Kamu tidak dapat mengubah metadata beatmap yang telah dinominasikan. Mohon hubungi anggota BN atau NAT apabila kamu merasa terdapat kesalahan pada metadata beatmap ini.</value>
+    <value>Kamu tidak dapat mengubah metadata beatmap yang telah dinominasikan. Hubungi anggota BN atau NAT apabila kamu merasa metadata beatmap ini tidak diatur dengan benar.</value>
   </data>
   <data name="chat.annnonce_only" xml:space="preserve">
     <value>Kanal ini hanya dikhususkan untuk pengumuman.</value>
@@ -143,7 +143,7 @@
     <value>Pesan tidak dapat dikirim kepada pengguna yang kamu blokir atau memblokir dirimu.</value>
   </data>
   <data name="chat.friends_only" xml:space="preserve">
-    <value>Pengguna memblokir pesan dari orang yang tidak dalam daftar temannya.</value>
+    <value>Pengguna ini memblokir pesan dari pengguna lain yang tidak berada dalam daftar temannya.</value>
   </data>
   <data name="chat.moderated" xml:space="preserve">
     <value>Kanal percakapan ini sedang dimoderasi.</value>
@@ -164,7 +164,10 @@
     <value>Komentar dinonaktifkan</value>
   </data>
   <data name="comment.update.deleted" xml:space="preserve">
-    <value>Tidak dapat menyunting post yang telah dihapus.</value>
+    <value>Postingan yang telah dihapus tidak dapat disunting.</value>
+  </data>
+  <data name="contest.judging_not_active" xml:space="preserve">
+    <value>Penjurian kontes ini sedang tidak aktif.</value>
   </data>
   <data name="contest.voting_over" xml:space="preserve">
     <value>Anda tidak dapat mengubah pilihan Anda setelah periode pemungutan suara untuk kontes ini telah berakhir.</value>
@@ -173,43 +176,43 @@
     <value>Kamu telah mencapai batas entri untuk kontes ini</value>
   </data>
   <data name="contest.entry.over" xml:space="preserve">
-    <value>Terima kasih telah mengirimkan entrimu! Submisi untuk kontes ini telah ditutup dan pemungutan suara akan segera berlangsung.</value>
+    <value>Terima kasih atas entrimu! Pengumpulan entri untuk kontes ini telah ditutup dan pemungutan suara akan segera dibuka.</value>
   </data>
   <data name="forum.moderate.no_permission" xml:space="preserve">
-    <value>Tidak memiliki izin untuk mengelola forum ini.</value>
+    <value>Kamu tidak memiliki izin untuk memoderasi forum ini.</value>
   </data>
   <data name="forum.post.delete.only_last_post" xml:space="preserve">
-    <value>Hanya kiriman terakhir yang dapat dihapus.</value>
+    <value>Hanya postingan terakhir yang dapat dihapus.</value>
   </data>
   <data name="forum.post.delete.locked" xml:space="preserve">
-    <value>Tidak dapat menghapus kiriman di topik yang telah dikunci.</value>
+    <value>Postingan pada topik yang telah dikunci tidak dapat dihapus.</value>
   </data>
   <data name="forum.post.delete.no_forum_access" xml:space="preserve">
     <value>Kamu tidak memiliki akses ke forum yang dituju.</value>
   </data>
   <data name="forum.post.delete.not_owner" xml:space="preserve">
-    <value>Hanya pemilik topik yang dapat menghapus kiriman.</value>
+    <value>Postingan ini hanya dapat dihapus oleh pengirimnya.</value>
   </data>
   <data name="forum.post.edit.deleted" xml:space="preserve">
-    <value>Tidak dapat menyunting postingan yang telah dihapus.</value>
+    <value>Postingan yang telah dihapus tidak dapat disunting.</value>
   </data>
   <data name="forum.post.edit.locked" xml:space="preserve">
-    <value>Topik telah dikunci, sehingga penyuntingan kiriman tidak lagi dapat dilakukan.</value>
+    <value>Penyuntingan pada postingan ini telah dikunci.</value>
   </data>
   <data name="forum.post.edit.no_forum_access" xml:space="preserve">
     <value>Kamu tidak memiliki akses ke forum yang dituju.</value>
   </data>
   <data name="forum.post.edit.not_owner" xml:space="preserve">
-    <value>Hanya pemilik topik yang dapat menyunting kiriman.</value>
+    <value>Postingan ini hanya dapat disunting oleh pengirimnya.</value>
   </data>
   <data name="forum.post.edit.topic_locked" xml:space="preserve">
-    <value>Tidak dapat menyunting kiriman di topik yang telah dikunci.</value>
+    <value>Postingan pada topik yang telah dikunci tidak dapat disunting.</value>
   </data>
   <data name="forum.post.store.play_more" xml:space="preserve">
     <value>Kamu harus terlebih dahulu bermain sebelum kamu dapat membuat postingan pada forum! Apabila kamu mengalami masalah saat bermain, silakan kunjungi forum Help &amp; Support.</value>
   </data>
   <data name="forum.post.store.too_many_help_posts" xml:space="preserve">
-    <value>Kamu harus lebih banyak bermain sebelum kamu dapat membuat postingan tambahan. Apabila kamu masih memerlukan bantuan lebih lanjut, silakan kirim email ke support@ppy.sh</value>
+    <value>Kamu perlu untuk bermain lebih banyak sebelum kamu dapat membuat postingan tambahan. Apabila kamu masih menemui masalah dalam bermain, silakan kirim email ke support@ppy.sh</value>
   </data>
   <data name="forum.topic.reply.double_post" xml:space="preserve">
     <value>Mohon sunting postingan terakhirmu alih-alih membuat postingan baru.</value>
@@ -239,7 +242,7 @@
     <value>Tidak memiliki izin untuk membuat topik baru.</value>
   </data>
   <data name="forum.topic.store.forum_closed" xml:space="preserve">
-    <value>Forum ditutup sehingga tidak dapat membuat postingan.</value>
+    <value>Forum ini telah ditutup dan tidak lagi dapat ditulis.</value>
   </data>
   <data name="forum.topic.vote.no_forum_access" xml:space="preserve">
     <value>Kamu tidak memiliki akses ke forum yang dituju.</value>
@@ -279,6 +282,9 @@
   </data>
   <data name="score.pin.disabled_type" xml:space="preserve">
     <value>Tipe skor ini tidak dapat disematkan</value>
+  </data>
+  <data name="score.pin.failed" xml:space="preserve">
+    <value>Skor yang tidak pass tidak dapat disematkan.</value>
   </data>
   <data name="score.pin.not_owner" xml:space="preserve">
     <value>Hanya pemilik skor yang dapat menyematkan skor.</value>

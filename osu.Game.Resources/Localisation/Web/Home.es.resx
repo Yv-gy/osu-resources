@@ -202,14 +202,11 @@
   <data name="download.for_os" xml:space="preserve">
     <value>para {0}</value>
   </data>
-  <data name="download.lazer_note" xml:space="preserve">
-    <value>nota: se aplican reinicios a la tabla de clasificación</value>
-  </data>
   <data name="download.macos-fallback" xml:space="preserve">
     <value>usuarios de macOS</value>
   </data>
   <data name="download.mirror" xml:space="preserve">
-    <value>link alternativo</value>
+    <value>enlace alternativo</value>
   </data>
   <data name="download.or" xml:space="preserve">
     <value>o</value>
@@ -236,7 +233,7 @@
     <value>consulta el foro de ayuda</value>
   </data>
   <data name="download.help.support_button" xml:space="preserve">
-    <value>contacta con soporte</value>
+    <value>contacta al soporte</value>
   </data>
   <data name="download.os.windows" xml:space="preserve">
     <value>para Windows</value>

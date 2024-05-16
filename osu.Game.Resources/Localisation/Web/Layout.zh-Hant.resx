@@ -169,9 +169,6 @@
   <data name="menu.rankings._" xml:space="preserve">
     <value>排行榜</value>
   </data>
-  <data name="menu.rankings.kudosu" xml:space="preserve">
-    <value>kudosu</value>
-  </data>
   <data name="menu.store._" xml:space="preserve">
     <value>商店</value>
   </data>
@@ -318,6 +315,12 @@
   </data>
   <data name="popup_user.links.friends" xml:space="preserve">
     <value>好友</value>
+  </data>
+  <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
+    <value>Lazer 模式</value>
+  </data>
+  <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
+    <value>Lazer 模式透過使用 Lazer 客戶端中新評分演算法來顯示您的成績。</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>登出</value>

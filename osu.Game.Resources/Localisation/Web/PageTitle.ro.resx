@@ -136,8 +136,14 @@
   <data name="main.comments_controller._" xml:space="preserve">
     <value>comentarii</value>
   </data>
+  <data name="main.contest_entries_controller.judge_results" xml:space="preserve">
+    <value>rezultate evaluare concurs</value>
+  </data>
   <data name="main.contests_controller._" xml:space="preserve">
     <value>concursuri</value>
+  </data>
+  <data name="main.contests_controller.judge" xml:space="preserve">
+    <value>evaluare concurs</value>
   </data>
   <data name="main.groups_controller.show" xml:space="preserve">
     <value>grupuri</value>
@@ -186,6 +192,9 @@
   </data>
   <data name="main.tournaments_controller._" xml:space="preserve">
     <value>turnee</value>
+  </data>
+  <data name="main.user_cover_presets_controller._" xml:space="preserve">
+    <value>preset-uri coperți utilizator</value>
   </data>
   <data name="main.users_controller._" xml:space="preserve">
     <value>info jucător</value>

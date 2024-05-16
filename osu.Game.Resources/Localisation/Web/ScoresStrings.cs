@@ -50,9 +50,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString StatusNonBest => new TranslatableString(getKey(@"status.non_best"), @"Only personal best scores award pp");
 
         /// <summary>
-        /// "Only passing scores award pp"
+        /// "pp is not awarded for this score"
         /// </summary>
-        public static LocalisableString StatusNonPassing => new TranslatableString(getKey(@"status.non_passing"), @"Only passing scores award pp");
+        public static LocalisableString StatusNoPp => new TranslatableString(getKey(@"status.no_pp"), @"pp is not awarded for this score");
 
         /// <summary>
         /// "pp is not awarded for this score"
@@ -63,6 +63,11 @@ namespace osu.Game.Resources.Localisation.Web
         /// "This score is still being calculated and will be displayed soon"
         /// </summary>
         public static LocalisableString StatusProcessing => new TranslatableString(getKey(@"status.processing"), @"This score is still being calculated and will be displayed soon");
+
+        /// <summary>
+        /// "This score has no rank as it is unranked or marked for deletion"
+        /// </summary>
+        public static LocalisableString StatusNoRank => new TranslatableString(getKey(@"status.no_rank"), @"This score has no rank as it is unranked or marked for deletion");
 
         private static string getKey(string key) => $@"{prefix}:{key}";
     }

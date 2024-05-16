@@ -166,6 +166,9 @@
   <data name="comment.update.deleted" xml:space="preserve">
     <value>Нельзя редактировать удалённый пост.</value>
   </data>
+  <data name="contest.judging_not_active" xml:space="preserve">
+    <value>Судейство этого конкурса пока ещё не доступно.</value>
+  </data>
   <data name="contest.voting_over" xml:space="preserve">
     <value>Вы не можете изменить свой голос после окончания периода голосования.</value>
   </data>
@@ -215,7 +218,7 @@
     <value>Пожалуйста, отредактируйте ваш последний пост, не создавайте новый.</value>
   </data>
   <data name="forum.topic.reply.locked" xml:space="preserve">
-    <value>Нельзя ответить в закрытой теме.</value>
+    <value>В закрытой теме отключена возможность отвечать.</value>
   </data>
   <data name="forum.topic.reply.no_forum_access" xml:space="preserve">
     <value>Необходим доступ к запрашиваемому форуму.</value>
@@ -279,6 +282,9 @@
   </data>
   <data name="score.pin.disabled_type" xml:space="preserve">
     <value>Этот вид рекорда закрепить нельзя</value>
+  </data>
+  <data name="score.pin.failed" xml:space="preserve">
+    <value>Этот рекорд закрепить нельзя.</value>
   </data>
   <data name="score.pin.not_owner" xml:space="preserve">
     <value>Только владелец рекорда может его закрепить.</value>

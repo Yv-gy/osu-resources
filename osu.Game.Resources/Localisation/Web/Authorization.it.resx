@@ -74,7 +74,7 @@
     <value>Non puoi farlo mentre sei silenziato.</value>
   </data>
   <data name="unauthorized" xml:space="preserve">
-    <value>Accesso Negato.</value>
+    <value>Accesso negato.</value>
   </data>
   <data name="beatmap_discussion.destroy.is_hype" xml:space="preserve">
     <value>Non è possibile rimuovere l'Hype.</value>
@@ -110,7 +110,7 @@
     <value>Non puoi votare la tua discussione.</value>
   </data>
   <data name="beatmap_discussion.vote.wrong_beatmapset_state" xml:space="preserve">
-    <value>Puoi votare solo su discussioni di beatmap in attesa.</value>
+    <value>Puoi votare solo sulle discussioni di beatmap in attesa.</value>
   </data>
   <data name="beatmap_discussion_post.destroy.not_owner" xml:space="preserve">
     <value>Puoi eliminare solo i tuoi post.</value>
@@ -165,6 +165,9 @@
   </data>
   <data name="comment.update.deleted" xml:space="preserve">
     <value>Non puoi modificare un post eliminato.</value>
+  </data>
+  <data name="contest.judging_not_active" xml:space="preserve">
+    <value>La valutazione per questo concorso non è attiva.</value>
   </data>
   <data name="contest.voting_over" xml:space="preserve">
     <value>Non puoi cambiare il tuo voto quando il periodo di votazione per questo contest è finito.</value>
@@ -279,6 +282,9 @@
   </data>
   <data name="score.pin.disabled_type" xml:space="preserve">
     <value>Impossibile fissare questo tipo di punteggio</value>
+  </data>
+  <data name="score.pin.failed" xml:space="preserve">
+    <value>Non puoi fissare un punteggio incompleto.</value>
   </data>
   <data name="score.pin.not_owner" xml:space="preserve">
     <value>Solo il proprietario del punteggio può fissarlo.</value>

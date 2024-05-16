@@ -169,9 +169,6 @@
   <data name="menu.rankings._" xml:space="preserve">
     <value>ランキング</value>
   </data>
-  <data name="menu.rankings.kudosu" xml:space="preserve">
-    <value>kudosu</value>
-  </data>
   <data name="menu.store._" xml:space="preserve">
     <value>ストア</value>
   </data>
@@ -213,6 +210,9 @@
   </data>
   <data name="footer.legal.copyright" xml:space="preserve">
     <value>著作権 (DMCA)</value>
+  </data>
+  <data name="footer.legal.jp_sctl" xml:space="preserve">
+    <value>特定商取引法</value>
   </data>
   <data name="footer.legal.privacy" xml:space="preserve">
     <value>プライバシー</value>

@@ -74,7 +74,7 @@
     <value>Akun varaus on alhainen! Lataa laitteesi estääksesi pelinaikaiset keskeytykset.</value>
   </data>
   <data name="game_volume_too_low" xml:space="preserve">
-    <value>Pelisi äänenvoimakkuus on liian pienellä! Palauta se napsauttamalla tästä.</value>
+    <value>Pelisi äänenvoimakkuus on liian pienellä kuullaksesi mitään! Palauta se napsauttamalla tästä.</value>
   </data>
   <data name="no_autoplay_mod" xml:space="preserve">
     <value>Automaattinen toisto ei ole saatavilla nykyiselle pelimuodolle!</value>
@@ -85,7 +85,7 @@
 Ole hyvä ja yritä vaihtaa äänilaite toimivaksi asetukseksi.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
-    <value>Pisteiden peitetaso on tällä hetkellä pois käytöstä. Voit ottaa sen käyttöön painamalla {0}.</value>
+    <value>Pisteiden peitetaso on tällä hetkellä poissa käytöstä. Voit ottaa sen käyttöön painamalla {0}.</value>
   </data>
   <data name="unsupported_or_dangerous_url_protocol" xml:space="preserve">
     <value>URL-osoite {0} käyttää protokollaa, jota ei tueta tai on vaarallinen, joten sitä ei avata.</value>
@@ -97,7 +97,7 @@ Ole hyvä ja yritä vaihtaa äänilaite toimivaksi asetukseksi.</value>
     <value>Piirtopöydän tuki otetaan pois käytöstä virheen vuoksi: "{0}"</value>
   </data>
   <data name="encountered_tablet_warning" xml:space="preserve">
-    <value>Varoitus: piirtopöytä ei välttämättä toimi oikein. Napsauta tätä nähdäksesi luettelon kaikista tuetuista piirtopöydistä.</value>
+    <value>Kohdattiin piirtopöytään liittyvä varoitus, piirtopöytäsi ei välttämättä toimi oikein. Napsauta tätä nähdäksesi luettelon kaikista tuetuista piirtopöydistä.</value>
   </data>
   <data name="unsupported_link_type" xml:space="preserve">
     <value>Tämä linkkityyppi ei ole vielä tuettu!</value>
@@ -112,12 +112,28 @@ Ole hyvä ja yritä vaihtaa äänilaite toimivaksi asetukseksi.</value>
     <value>{0} kutsui sinut moninpeliotteluun "{1}"! Liity napsauttamalla.</value>
   </data>
   <data name="missing_beatmap_for_replay" xml:space="preserve">
-    <value>Sinulla ei ole rytmikarttaa tälle uusinnalle.</value>
+    <value>Sinulla ei ole tämän uusinnan rytmikarttaa.</value>
   </data>
   <data name="downloading_beatmap_for_replay" xml:space="preserve">
     <value>Ladataan puuttuva rytmikartta tälle uusinnalle...</value>
   </data>
   <data name="mismatching_beatmap_for_replay" xml:space="preserve">
-    <value>Paikallinen kopiosi rytmikartasta tätä uusintaa varten näyttää olevan erilainen kuin odotettiin. Voit joutua päivittämään sen tai lataamaan sen uudelleen.</value>
+    <value>Paikallinen kopiosi rytmikartasta tätä uusintaa varten näyttää olevan erilainen kuin odotettiin. Voit joutua lataamaan uudelleen tai päivittämään sen.</value>
+  </data>
+  <data name="game_version_after_update" xml:space="preserve">
+    <value>Käytössäsi on nyt osu! {0}.
+Napsauta nähdäksesi, mikä on uutta!</value>
+  </data>
+  <data name="update_ready_to_install" xml:space="preserve">
+    <value>Päivitys on valmis asennettavaksi. Napsauta käynnistääksesi uudelleen!</value>
+  </data>
+  <data name="not_official_build" xml:space="preserve">
+    <value>Tämä ei ole pelin virallinen versio. Pisteitä ei lähetetä ja muut verkon järjestelmät eivät välttämättä toimi tarkoitetulla tavalla.</value>
+  </data>
+  <data name="downloading_update" xml:space="preserve">
+    <value>Ladataan päivitystä...</value>
+  </data>
+  <data name="installing_update" xml:space="preserve">
+    <value>Asennetaan päivitystä...</value>
   </data>
 </root>

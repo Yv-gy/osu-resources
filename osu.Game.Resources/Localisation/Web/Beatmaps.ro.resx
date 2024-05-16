@@ -448,6 +448,12 @@
   <data name="nominations.rank_estimate._" xml:space="preserve">
     <value>Acest beatmap este estimat a fi clasificat în data de {0} dacă nu sunt găsite probleme. Este #{1} în {2}.</value>
   </data>
+  <data name="nominations.rank_estimate.unresolved_problems" xml:space="preserve">
+    <value>Acest beatmap este momentan blocat din a părăsi secțiunea „Calificat” până când {0} sunt rezolvate.</value>
+  </data>
+  <data name="nominations.rank_estimate.problems" xml:space="preserve">
+    <value>aceste probleme</value>
+  </data>
   <data name="nominations.rank_estimate.on" xml:space="preserve">
     <value>pe {0}</value>
   </data>
@@ -509,7 +515,7 @@
     <value>Conținut Obscen</value>
   </data>
   <data name="listing.search.filters.played" xml:space="preserve">
-    <value>Jucat</value>
+    <value>Jucate</value>
   </data>
   <data name="listing.search.filters.rank" xml:space="preserve">
     <value>Grad Obținut</value>
@@ -539,7 +545,7 @@
     <value>Evaluare</value>
   </data>
   <data name="listing.search.sorting.plays" xml:space="preserve">
-    <value>Jocuri</value>
+    <value>Încercări</value>
   </data>
   <data name="listing.search.sorting.relevance" xml:space="preserve">
     <value>Relevanţă</value>
@@ -704,10 +710,10 @@
     <value>Oricare</value>
   </data>
   <data name="played.played" xml:space="preserve">
-    <value>Jucat</value>
+    <value>Jucate</value>
   </data>
   <data name="played.unplayed" xml:space="preserve">
-    <value>Nejucat</value>
+    <value>Nejucate</value>
   </data>
   <data name="extra.video" xml:space="preserve">
     <value>Cu video</value>

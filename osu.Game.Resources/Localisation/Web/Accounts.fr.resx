@@ -71,7 +71,7 @@
     <value>Veuillez vous assurer que votre avatar correspond aux {0}.&lt;br/&gt;Cela signifie qu'il doit être &lt;strong&gt;adapté à tous les âges&lt;/strong&gt;. C'est-à-dire pas de nudité, de profanation ou de contenu suggestif.</value>
   </data>
   <data name="edit.avatar.rules_link" xml:space="preserve">
-    <value>règles de la communauté</value>
+    <value>Considérations relatives au contenu visuel</value>
   </data>
   <data name="edit.email.new" xml:space="preserve">
     <value>nouvel e-mail</value>
@@ -201,9 +201,6 @@
   </data>
   <data name="notifications.options.push" xml:space="preserve">
     <value>push</value>
-  </data>
-  <data name="notifications.options.user_achievement_unlock" xml:space="preserve">
-    <value>médaille utilisateur déverrouillée</value>
   </data>
   <data name="oauth.authorized_clients" xml:space="preserve">
     <value>clients autorisés</value>

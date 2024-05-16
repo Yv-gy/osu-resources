@@ -74,7 +74,7 @@
     <value>Riak kursor</value>
   </data>
   <data name="playfield_border_style" xml:space="preserve">
-    <value>Mode tampilan batas area permainan</value>
+    <value>Gaya batas area permainan</value>
   </data>
   <data name="no_borders" xml:space="preserve">
     <value>Tidak ada</value>
@@ -102,5 +102,8 @@
   </data>
   <data name="ruleset" xml:space="preserve">
     <value>{0}ms (kecepatan {1})</value>
+  </data>
+  <data name="touch_control_scheme" xml:space="preserve">
+    <value>Skema layar sentuh</value>
   </data>
 </root>

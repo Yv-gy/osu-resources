@@ -169,9 +169,6 @@
   <data name="menu.rankings._" xml:space="preserve">
     <value>classifiche</value>
   </data>
-  <data name="menu.rankings.kudosu" xml:space="preserve">
-    <value>kudosu</value>
-  </data>
   <data name="menu.store._" xml:space="preserve">
     <value>negozio</value>
   </data>
@@ -318,6 +315,12 @@
   </data>
   <data name="popup_user.links.friends" xml:space="preserve">
     <value>Amici</value>
+  </data>
+  <data name="popup_user.links.legacy_score_only_toggle" xml:space="preserve">
+    <value>Modalità lazer</value>
+  </data>
+  <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
+    <value>La modalità lazer mostra i punteggi di lazer con un nuovo algoritmo dei punti</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Esci</value>

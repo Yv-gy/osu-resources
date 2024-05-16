@@ -140,12 +140,15 @@
     <value>JPG (apto para la web)</value>
   </data>
   <data name="png_lossless" xml:space="preserve">
-    <value>PNG (sin pérdida)</value>
+    <value>PNG (sin pérdida de calidad)</value>
   </data>
   <data name="change_renderer_configuration" xml:space="preserve">
     <value>Para cambiar el renderizador, el juego se cerrará. Por favor, vuelve a abrirlo.</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
     <value>Minimizar osu! al cambiar a otra aplicación</value>
+  </data>
+  <data name="shrink_game_to_safe_area" xml:space="preserve">
+    <value>Reducir el tamaño del juego para evitar la cámara frontal y los sensores</value>
   </data>
 </root>

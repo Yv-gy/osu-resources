@@ -70,4 +70,7 @@
   <data name="spectate_player" xml:space="preserve">
     <value>旁观</value>
   </data>
+  <data name="spectate_player" xml:space="preserve">
+    <value>旁观</value>
+  </data>
 </root>

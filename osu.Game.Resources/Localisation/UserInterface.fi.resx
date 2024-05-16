@@ -119,7 +119,11 @@
     <value>Muunnelmavalikon pikanäppäinten tyyli</value>
   </data>
   <data name="mod_select_text_search_starts_active" xml:space="preserve">
+<<<<<<< HEAD
     <value>Tarkenna automaattisesti hakutekstilaatikko muunnelmavalikossa</value>
+=======
+    <value>Tarkenna haun tekstilaatikko automaattisesti muunnelmavalikossa</value>
+>>>>>>> 91829130fe1b2eb3da7ea5d686d8199e22531aeb
   </data>
   <data name="no_limit" xml:space="preserve">
     <value>rajoittamaton</value>

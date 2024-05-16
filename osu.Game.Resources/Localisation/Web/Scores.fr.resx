@@ -58,6 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="show.non_preserved" xml:space="preserve">
+    <value>Ce score doit être supprimé et disparaîtra bientôt.</value>
+  </data>
   <data name="show.title" xml:space="preserve">
     <value>{0} sur {1} [{2}]</value>
   </data>
@@ -79,10 +82,18 @@
   <data name="status.non_best" xml:space="preserve">
     <value>Seul vos meilleurs scores vous rapportent des pp</value>
   </data>
+<<<<<<< HEAD
   <data name="status.non_passing" xml:space="preserve">
     <value>Seuls les scores que vous avez terminés sans échouer vous rapporteront des pp</value>
+=======
+  <data name="status.no_pp" xml:space="preserve">
+    <value>Ce score n'attribue pas de pp</value>
+>>>>>>> 91829130fe1b2eb3da7ea5d686d8199e22531aeb
   </data>
   <data name="status.processing" xml:space="preserve">
     <value>Ce score est toujours en cours de calcul et sera bientôt affiché</value>
+  </data>
+  <data name="status.no_rank" xml:space="preserve">
+    <value>Ce score n'a pas de rang : il est soit non classé, soit destiné à être supprimé</value>
   </data>
 </root>

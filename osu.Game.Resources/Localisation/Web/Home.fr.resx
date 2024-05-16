@@ -202,9 +202,12 @@
   <data name="download.for_os" xml:space="preserve">
     <value>pour {0}</value>
   </data>
+<<<<<<< HEAD
   <data name="download.lazer_note" xml:space="preserve">
     <value>attention : les classements peuvent être réinitialisés</value>
   </data>
+=======
+>>>>>>> 91829130fe1b2eb3da7ea5d686d8199e22531aeb
   <data name="download.macos-fallback" xml:space="preserve">
     <value>utilisateurs macOS</value>
   </data>

@@ -107,19 +107,19 @@
     <value>postingan diskusi beatmap</value>
   </data>
   <data name="main.beatmap_discussions_controller._" xml:space="preserve">
-    <value>laman diskusi beatmap</value>
+    <value>diskusi beatmap</value>
   </data>
   <data name="main.beatmap_packs_controller._" xml:space="preserve">
     <value>paket beatmap</value>
   </data>
   <data name="main.beatmapset_discussion_votes_controller._" xml:space="preserve">
-    <value>laman diskusi voting beatmap</value>
+    <value>perolehan suara diskusi beatmap</value>
   </data>
   <data name="main.beatmapset_events_controller._" xml:space="preserve">
     <value>riwayat beatmap</value>
   </data>
   <data name="main.beatmapsets_controller.discussion" xml:space="preserve">
-    <value>laman diskusi beatmap</value>
+    <value>diskusi beatmap</value>
   </data>
   <data name="main.beatmapsets_controller.index" xml:space="preserve">
     <value>daftar beatmap</value>
@@ -136,8 +136,14 @@
   <data name="main.comments_controller._" xml:space="preserve">
     <value>komentar</value>
   </data>
+  <data name="main.contest_entries_controller.judge_results" xml:space="preserve">
+    <value>hasil penjurian kontes</value>
+  </data>
   <data name="main.contests_controller._" xml:space="preserve">
     <value>kontes</value>
+  </data>
+  <data name="main.contests_controller.judge" xml:space="preserve">
+    <value>penjurian kontes</value>
   </data>
   <data name="main.groups_controller.show" xml:space="preserve">
     <value>grup</value>
@@ -149,7 +155,7 @@
     <value>dasbor</value>
   </data>
   <data name="main.home_controller.search" xml:space="preserve">
-    <value>cari</value>
+    <value>pencarian</value>
   </data>
   <data name="main.home_controller.support_the_game" xml:space="preserve">
     <value>dukung permainan ini</value>
@@ -186,6 +192,9 @@
   </data>
   <data name="main.tournaments_controller._" xml:space="preserve">
     <value>turnamen</value>
+  </data>
+  <data name="main.user_cover_presets_controller._" xml:space="preserve">
+    <value>preset sampul pengguna</value>
   </data>
   <data name="main.users_controller._" xml:space="preserve">
     <value>info pemain</value>

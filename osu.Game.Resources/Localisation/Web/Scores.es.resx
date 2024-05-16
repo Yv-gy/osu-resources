@@ -58,6 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="show.non_preserved" xml:space="preserve">
+    <value>Esta puntuación está marcada para eliminación y desaparecerá pronto.</value>
+  </data>
   <data name="show.title" xml:space="preserve">
     <value>{0} en {1} [{2}]</value>
   </data>
@@ -79,10 +82,13 @@
   <data name="status.non_best" xml:space="preserve">
     <value>Solo las mejores puntuaciones personales otorgan pp</value>
   </data>
-  <data name="status.non_passing" xml:space="preserve">
-    <value>Solo las puntuaciones aprobadas dan pp</value>
+  <data name="status.no_pp" xml:space="preserve">
+    <value>no se concede pp para esta puntuación</value>
   </data>
   <data name="status.processing" xml:space="preserve">
     <value>Esta puntuación aún se está calculando y se mostrará pronto</value>
+  </data>
+  <data name="status.no_rank" xml:space="preserve">
+    <value>Esta puntuación no tiene una clasificación, ya que no está clasificada o está marcada para ser eliminada</value>
   </data>
 </root>

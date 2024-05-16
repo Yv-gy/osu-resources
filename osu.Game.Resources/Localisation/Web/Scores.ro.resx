@@ -58,6 +58,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="show.non_preserved" xml:space="preserve">
+    <value>Acest scor este marcat pentru ștergere și va dispărea în curând.</value>
+  </data>
   <data name="show.title" xml:space="preserve">
     <value>{0} pe {1} [{2}]</value>
   </data>
@@ -79,10 +82,13 @@
   <data name="status.non_best" xml:space="preserve">
     <value>Doar cele mai bune scoruri acordă pp</value>
   </data>
-  <data name="status.non_passing" xml:space="preserve">
-    <value>Doar scorurile aprobate acordă pp</value>
+  <data name="status.no_pp" xml:space="preserve">
+    <value>pp nu este acordat pentru acest scor</value>
   </data>
   <data name="status.processing" xml:space="preserve">
     <value>Acest scor este încă în calculare și va fi afișat în curând</value>
+  </data>
+  <data name="status.no_rank" xml:space="preserve">
+    <value>Acest scor nu este în clasament deoarece este neclasificat sau marcat pentru ștergere</value>
   </data>
 </root>
